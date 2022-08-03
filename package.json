@@ -1,0 +1,25 @@
+{
+  "name": "pokedexbackendjs",
+  "version": "1.0.0",
+  "description": "Pokedex Backend, created with JS Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djiauwfar/pokedexBackendJS.git"
+  },
+  "author": "Djiauw Farandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djiauwfar/pokedexBackendJS/issues"
+  },
+  "homepage": "https://github.com/djiauwfar/pokedexBackendJS#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
